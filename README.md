@@ -15,7 +15,7 @@ MCP / LLM agents · React · SQL
 |---|---|
 | **[Alpha autoresearch](https://github.com/Rohan473/Persistent-memory)** | Knowledge graph + live memory layer for systematic alpha research on WorldQuant Brain — simulation loop, overfit & correlation gating, MCP + FastAPI. |
 | **[Mini BestEx — Market Data + TCA](https://github.com/Rohan473/End-to-End-Market-Data-Pipeline-TCA-Dashboard)** | Equity tick/minute ingestion → partitioned Postgres → TWAP/VWAP execution sim → Transaction Cost Analysis dashboard. |
-| **[ScribeAI — Document OCR](https://github.com/Rohan473/optical-character-recognition)** | Handwritten + printed document digitization with Microsoft TrOCR, React + FastAPI. |
+| **[ScribeAI — Document OCR](https://github.com/Rohan473/OCR)** | Handwritten + scanned-document OCR (TrOCR + Tesseract) with RAG-based Q&A over your notes — React + FastAPI. |
 | **[Employee Attrition Intelligence](https://github.com/Rohan473/pan-attrition-app)** | Attrition risk scoring with XGBoost + SMOTE + SHAP, in a Streamlit app. |
 
 ### Reach me
